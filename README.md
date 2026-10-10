@@ -1,6 +1,6 @@
 # Libras em Cena
 
-Protótipo navegável da companhia de dança, construído a partir do user flow e dos mockups fornecidos. Interface em português, responsiva, com identidade em preto e branco e imagens extraídas dos documentos de referência.
+Protótipo navegável da companhia de dança, construído a partir do user flow e dos mockups de PI II. Interface em português, responsiva, com identidade em preto e branco e imagens extraídas dos documentos de referência.
 
 ## Compartilhar com um testador
 
